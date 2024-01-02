@@ -1,16 +1,7 @@
-# coffeeappflutter
+# Coffeeapp flutter
 
-A new Flutter project.
+Built coffee app in flutter
 
-## Getting Started
+## Video
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/tanmaysuryawanshi/coffee_app_flutter/assets/93265845/94d8fd40-3021-4a07-80c1-a52a08779769
